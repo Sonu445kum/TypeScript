@@ -1,2 +1,2 @@
 const a:number=10;
-console.log(x);
+console.log(a);
